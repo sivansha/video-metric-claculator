@@ -2,6 +2,7 @@
 ### PSNR / SSIM / VAMF
 
 Node.js based tool for calculating video qulity metrics.
+Intendent to be a part of adaptive streaming system.
 
 requirements:
 - ffmpeg 4.1 with libvmaf library enabled

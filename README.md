@@ -1,7 +1,7 @@
 # Video Quality Metric Calculator
 ### PSNR / SSIM / VAMF
 
-Node.js based tool for calculating video qulity metrics.
+Node.js based tool for calculating video qulity metrics, using FFMPEG and fluent-mmfpeg.
 Intendent to be a part of adaptive streaming system.
 
 requirements:
